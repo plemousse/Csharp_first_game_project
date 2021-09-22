@@ -23,7 +23,6 @@ namespace firstgane
             while (isApplicationOn)
             {
 
-
                 while (Program.nbreEssais >= 1 && !WinOn)
                 {
                     if (!rdnStatus)
@@ -43,7 +42,7 @@ namespace firstgane
                     }
 
                     //demande un chiffre a l'utilisateur
-                    Console.WriteLine("trouver le nombre entre 0 et ");
+                    Console.WriteLine("trouver le nombre entre 0 et " + (range-1));
 
                     //met en pause le programme et attend un input
                     string stringRecu = Console.ReadLine();
