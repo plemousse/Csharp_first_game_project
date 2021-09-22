@@ -1,0 +1,16 @@
+/home/floup/Bureau/Projet/UDEMY_UNITY/firstgane/bin/Debug/net5.0/firstgane
+/home/floup/Bureau/Projet/UDEMY_UNITY/firstgane/bin/Debug/net5.0/firstgane.deps.json
+/home/floup/Bureau/Projet/UDEMY_UNITY/firstgane/bin/Debug/net5.0/firstgane.runtimeconfig.json
+/home/floup/Bureau/Projet/UDEMY_UNITY/firstgane/bin/Debug/net5.0/firstgane.runtimeconfig.dev.json
+/home/floup/Bureau/Projet/UDEMY_UNITY/firstgane/bin/Debug/net5.0/firstgane.dll
+/home/floup/Bureau/Projet/UDEMY_UNITY/firstgane/bin/Debug/net5.0/ref/firstgane.dll
+/home/floup/Bureau/Projet/UDEMY_UNITY/firstgane/bin/Debug/net5.0/firstgane.pdb
+/home/floup/Bureau/Projet/UDEMY_UNITY/firstgane/obj/Debug/net5.0/firstgane.csproj.AssemblyReference.cache
+/home/floup/Bureau/Projet/UDEMY_UNITY/firstgane/obj/Debug/net5.0/firstgane.GeneratedMSBuildEditorConfig.editorconfig
+/home/floup/Bureau/Projet/UDEMY_UNITY/firstgane/obj/Debug/net5.0/firstgane.AssemblyInfoInputs.cache
+/home/floup/Bureau/Projet/UDEMY_UNITY/firstgane/obj/Debug/net5.0/firstgane.AssemblyInfo.cs
+/home/floup/Bureau/Projet/UDEMY_UNITY/firstgane/obj/Debug/net5.0/firstgane.csproj.CoreCompileInputs.cache
+/home/floup/Bureau/Projet/UDEMY_UNITY/firstgane/obj/Debug/net5.0/firstgane.dll
+/home/floup/Bureau/Projet/UDEMY_UNITY/firstgane/obj/Debug/net5.0/ref/firstgane.dll
+/home/floup/Bureau/Projet/UDEMY_UNITY/firstgane/obj/Debug/net5.0/firstgane.pdb
+/home/floup/Bureau/Projet/UDEMY_UNITY/firstgane/obj/Debug/net5.0/firstgane.genruntimeconfig.cache
