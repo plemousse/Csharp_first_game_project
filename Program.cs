@@ -94,7 +94,7 @@ namespace firstgane
 
             if (devIsOn)
             {
-                Console.WriteLine("Tu est de vuloir garder le dev mod 1 / 0");
+                Console.WriteLine("Tu est sur de vouloir garder le dev mod 1 / 0");
 
                 //met en pause le programme et attend un input
                 string devCheck = Console.ReadLine();
